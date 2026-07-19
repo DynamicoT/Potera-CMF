@@ -1,0 +1,15 @@
+quantity,value,unit
+native_wavelength_start,390,nm
+native_wavelength_end,780,nm
+native_wavelength_interval,1,nm
+five_nanometre_table_interval,5,nm
+peak_evaluation_interval,0.1,nm
+energy_V_peak_wavelength,554.9,nm
+maximum_energy_V,1,1
+quantum_V_peak_wavelength,549.3,nm
+maximum_quantum_V,1,1
+MacLeod_Boynton_s_peak_wavelength,416.7,nm
+maximum_MacLeod_Boynton_s,1,1
+photometric_anchor_wavelength,555.016,nm
+spectral_luminous_efficacy_at_anchor,683,lm/W
+maximum_spectral_luminous_efficacy_K_P_m,683.0020095803035,lm/W

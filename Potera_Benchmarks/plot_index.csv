@@ -1,0 +1,212 @@
+axis,case_kind,source_device,destination_device,device,target,title,subtitle,plot,path
+direct,illuminant_macro_devices,,,__macro__,D65,D65 Direct,All devices,auc,direct/d65/all_devices_auc.svg
+direct,device_target,,,smartphone OLED,D65,D65 Direct,smartphone OLED,auc,direct/d65/smartphone_oled_auc.svg
+direct,device_target,,,smartphone OLED,D65,D65 Direct,smartphone OLED,ab,direct/d65/smartphone_oled_ab.svg
+direct,device_target,,,KSF LCD,D65,D65 Direct,KSF LCD,auc,direct/d65/ksf_lcd_auc.svg
+direct,device_target,,,KSF LCD,D65,D65 Direct,KSF LCD,ab,direct/d65/ksf_lcd_ab.svg
+direct,device_target,,,WOLED,D65,D65 Direct,WOLED,auc,direct/d65/woled_auc.svg
+direct,device_target,,,WOLED,D65,D65 Direct,WOLED,ab,direct/d65/woled_ab.svg
+direct,device_target,,,QDEF LCD,D65,D65 Direct,QDEF LCD,auc,direct/d65/qdef_lcd_auc.svg
+direct,device_target,,,QDEF LCD,D65,D65 Direct,QDEF LCD,ab,direct/d65/qdef_lcd_ab.svg
+direct,device_target,,,WLED LCD,D65,D65 Direct,WLED LCD,auc,direct/d65/wled_lcd_auc.svg
+direct,device_target,,,WLED LCD,D65,D65 Direct,WLED LCD,ab,direct/d65/wled_lcd_ab.svg
+direct,device_target,,,QD-OLED,D65,D65 Direct,QD-OLED,auc,direct/d65/qd_oled_auc.svg
+direct,device_target,,,QD-OLED,D65,D65 Direct,QD-OLED,ab,direct/d65/qd_oled_ab.svg
+direct,illuminant_macro_devices,,,__macro__,D50,D50 Direct,All devices,auc,direct/d50/all_devices_auc.svg
+direct,device_target,,,smartphone OLED,D50,D50 Direct,smartphone OLED,auc,direct/d50/smartphone_oled_auc.svg
+direct,device_target,,,smartphone OLED,D50,D50 Direct,smartphone OLED,ab,direct/d50/smartphone_oled_ab.svg
+direct,device_target,,,KSF LCD,D50,D50 Direct,KSF LCD,auc,direct/d50/ksf_lcd_auc.svg
+direct,device_target,,,KSF LCD,D50,D50 Direct,KSF LCD,ab,direct/d50/ksf_lcd_ab.svg
+direct,device_target,,,WOLED,D50,D50 Direct,WOLED,auc,direct/d50/woled_auc.svg
+direct,device_target,,,WOLED,D50,D50 Direct,WOLED,ab,direct/d50/woled_ab.svg
+direct,device_target,,,QDEF LCD,D50,D50 Direct,QDEF LCD,auc,direct/d50/qdef_lcd_auc.svg
+direct,device_target,,,QDEF LCD,D50,D50 Direct,QDEF LCD,ab,direct/d50/qdef_lcd_ab.svg
+direct,device_target,,,WLED LCD,D50,D50 Direct,WLED LCD,auc,direct/d50/wled_lcd_auc.svg
+direct,device_target,,,WLED LCD,D50,D50 Direct,WLED LCD,ab,direct/d50/wled_lcd_ab.svg
+direct,device_target,,,QD-OLED,D50,D50 Direct,QD-OLED,auc,direct/d50/qd_oled_auc.svg
+direct,device_target,,,QD-OLED,D50,D50 Direct,QD-OLED,ab,direct/d50/qd_oled_ab.svg
+direct,illuminant_macro_devices,,,__macro__,D55,D55 Direct,All devices,auc,direct/d55/all_devices_auc.svg
+direct,device_target,,,smartphone OLED,D55,D55 Direct,smartphone OLED,auc,direct/d55/smartphone_oled_auc.svg
+direct,device_target,,,smartphone OLED,D55,D55 Direct,smartphone OLED,ab,direct/d55/smartphone_oled_ab.svg
+direct,device_target,,,KSF LCD,D55,D55 Direct,KSF LCD,auc,direct/d55/ksf_lcd_auc.svg
+direct,device_target,,,KSF LCD,D55,D55 Direct,KSF LCD,ab,direct/d55/ksf_lcd_ab.svg
+direct,device_target,,,WOLED,D55,D55 Direct,WOLED,auc,direct/d55/woled_auc.svg
+direct,device_target,,,WOLED,D55,D55 Direct,WOLED,ab,direct/d55/woled_ab.svg
+direct,device_target,,,QDEF LCD,D55,D55 Direct,QDEF LCD,auc,direct/d55/qdef_lcd_auc.svg
+direct,device_target,,,QDEF LCD,D55,D55 Direct,QDEF LCD,ab,direct/d55/qdef_lcd_ab.svg
+direct,device_target,,,WLED LCD,D55,D55 Direct,WLED LCD,auc,direct/d55/wled_lcd_auc.svg
+direct,device_target,,,WLED LCD,D55,D55 Direct,WLED LCD,ab,direct/d55/wled_lcd_ab.svg
+direct,device_target,,,QD-OLED,D55,D55 Direct,QD-OLED,auc,direct/d55/qd_oled_auc.svg
+direct,device_target,,,QD-OLED,D55,D55 Direct,QD-OLED,ab,direct/d55/qd_oled_ab.svg
+direct,illuminant_macro_devices,,,__macro__,LED-RGB1,LED-RGB1 Direct,All devices,auc,direct/led_rgb1/all_devices_auc.svg
+direct,device_target,,,smartphone OLED,LED-RGB1,LED-RGB1 Direct,smartphone OLED,auc,direct/led_rgb1/smartphone_oled_auc.svg
+direct,device_target,,,smartphone OLED,LED-RGB1,LED-RGB1 Direct,smartphone OLED,ab,direct/led_rgb1/smartphone_oled_ab.svg
+direct,device_target,,,KSF LCD,LED-RGB1,LED-RGB1 Direct,KSF LCD,auc,direct/led_rgb1/ksf_lcd_auc.svg
+direct,device_target,,,KSF LCD,LED-RGB1,LED-RGB1 Direct,KSF LCD,ab,direct/led_rgb1/ksf_lcd_ab.svg
+direct,device_target,,,WOLED,LED-RGB1,LED-RGB1 Direct,WOLED,auc,direct/led_rgb1/woled_auc.svg
+direct,device_target,,,WOLED,LED-RGB1,LED-RGB1 Direct,WOLED,ab,direct/led_rgb1/woled_ab.svg
+direct,device_target,,,QDEF LCD,LED-RGB1,LED-RGB1 Direct,QDEF LCD,auc,direct/led_rgb1/qdef_lcd_auc.svg
+direct,device_target,,,QDEF LCD,LED-RGB1,LED-RGB1 Direct,QDEF LCD,ab,direct/led_rgb1/qdef_lcd_ab.svg
+direct,device_target,,,WLED LCD,LED-RGB1,LED-RGB1 Direct,WLED LCD,auc,direct/led_rgb1/wled_lcd_auc.svg
+direct,device_target,,,WLED LCD,LED-RGB1,LED-RGB1 Direct,WLED LCD,ab,direct/led_rgb1/wled_lcd_ab.svg
+direct,device_target,,,QD-OLED,LED-RGB1,LED-RGB1 Direct,QD-OLED,auc,direct/led_rgb1/qd_oled_auc.svg
+direct,device_target,,,QD-OLED,LED-RGB1,LED-RGB1 Direct,QD-OLED,ab,direct/led_rgb1/qd_oled_ab.svg
+direct,illuminant_macro_devices,,,__macro__,LED-V2,LED-V2 Direct,All devices,auc,direct/led_v2/all_devices_auc.svg
+direct,device_target,,,smartphone OLED,LED-V2,LED-V2 Direct,smartphone OLED,auc,direct/led_v2/smartphone_oled_auc.svg
+direct,device_target,,,smartphone OLED,LED-V2,LED-V2 Direct,smartphone OLED,ab,direct/led_v2/smartphone_oled_ab.svg
+direct,device_target,,,KSF LCD,LED-V2,LED-V2 Direct,KSF LCD,auc,direct/led_v2/ksf_lcd_auc.svg
+direct,device_target,,,KSF LCD,LED-V2,LED-V2 Direct,KSF LCD,ab,direct/led_v2/ksf_lcd_ab.svg
+direct,device_target,,,WOLED,LED-V2,LED-V2 Direct,WOLED,auc,direct/led_v2/woled_auc.svg
+direct,device_target,,,WOLED,LED-V2,LED-V2 Direct,WOLED,ab,direct/led_v2/woled_ab.svg
+direct,device_target,,,QDEF LCD,LED-V2,LED-V2 Direct,QDEF LCD,auc,direct/led_v2/qdef_lcd_auc.svg
+direct,device_target,,,QDEF LCD,LED-V2,LED-V2 Direct,QDEF LCD,ab,direct/led_v2/qdef_lcd_ab.svg
+direct,device_target,,,WLED LCD,LED-V2,LED-V2 Direct,WLED LCD,auc,direct/led_v2/wled_lcd_auc.svg
+direct,device_target,,,WLED LCD,LED-V2,LED-V2 Direct,WLED LCD,ab,direct/led_v2/wled_lcd_ab.svg
+direct,device_target,,,QD-OLED,LED-V2,LED-V2 Direct,QD-OLED,auc,direct/led_v2/qd_oled_auc.svg
+direct,device_target,,,QD-OLED,LED-V2,LED-V2 Direct,QD-OLED,ab,direct/led_v2/qd_oled_ab.svg
+direct,illuminant_macro_devices,,,__macro__,LED-V1,LED-V1 Direct,All devices,auc,direct/led_v1/all_devices_auc.svg
+direct,device_target,,,smartphone OLED,LED-V1,LED-V1 Direct,smartphone OLED,auc,direct/led_v1/smartphone_oled_auc.svg
+direct,device_target,,,smartphone OLED,LED-V1,LED-V1 Direct,smartphone OLED,ab,direct/led_v1/smartphone_oled_ab.svg
+direct,device_target,,,KSF LCD,LED-V1,LED-V1 Direct,KSF LCD,auc,direct/led_v1/ksf_lcd_auc.svg
+direct,device_target,,,KSF LCD,LED-V1,LED-V1 Direct,KSF LCD,ab,direct/led_v1/ksf_lcd_ab.svg
+direct,device_target,,,WOLED,LED-V1,LED-V1 Direct,WOLED,auc,direct/led_v1/woled_auc.svg
+direct,device_target,,,WOLED,LED-V1,LED-V1 Direct,WOLED,ab,direct/led_v1/woled_ab.svg
+direct,device_target,,,QDEF LCD,LED-V1,LED-V1 Direct,QDEF LCD,auc,direct/led_v1/qdef_lcd_auc.svg
+direct,device_target,,,QDEF LCD,LED-V1,LED-V1 Direct,QDEF LCD,ab,direct/led_v1/qdef_lcd_ab.svg
+direct,device_target,,,WLED LCD,LED-V1,LED-V1 Direct,WLED LCD,auc,direct/led_v1/wled_lcd_auc.svg
+direct,device_target,,,WLED LCD,LED-V1,LED-V1 Direct,WLED LCD,ab,direct/led_v1/wled_lcd_ab.svg
+direct,device_target,,,QD-OLED,LED-V1,LED-V1 Direct,QD-OLED,auc,direct/led_v1/qd_oled_auc.svg
+direct,device_target,,,QD-OLED,LED-V1,LED-V1 Direct,QD-OLED,ab,direct/led_v1/qd_oled_ab.svg
+direct,illuminant_macro_devices,,,__macro__,LED-BH1,LED-BH1 Direct,All devices,auc,direct/led_bh1/all_devices_auc.svg
+direct,device_target,,,smartphone OLED,LED-BH1,LED-BH1 Direct,smartphone OLED,auc,direct/led_bh1/smartphone_oled_auc.svg
+direct,device_target,,,smartphone OLED,LED-BH1,LED-BH1 Direct,smartphone OLED,ab,direct/led_bh1/smartphone_oled_ab.svg
+direct,device_target,,,KSF LCD,LED-BH1,LED-BH1 Direct,KSF LCD,auc,direct/led_bh1/ksf_lcd_auc.svg
+direct,device_target,,,KSF LCD,LED-BH1,LED-BH1 Direct,KSF LCD,ab,direct/led_bh1/ksf_lcd_ab.svg
+direct,device_target,,,WOLED,LED-BH1,LED-BH1 Direct,WOLED,auc,direct/led_bh1/woled_auc.svg
+direct,device_target,,,WOLED,LED-BH1,LED-BH1 Direct,WOLED,ab,direct/led_bh1/woled_ab.svg
+direct,device_target,,,QDEF LCD,LED-BH1,LED-BH1 Direct,QDEF LCD,auc,direct/led_bh1/qdef_lcd_auc.svg
+direct,device_target,,,QDEF LCD,LED-BH1,LED-BH1 Direct,QDEF LCD,ab,direct/led_bh1/qdef_lcd_ab.svg
+direct,device_target,,,WLED LCD,LED-BH1,LED-BH1 Direct,WLED LCD,auc,direct/led_bh1/wled_lcd_auc.svg
+direct,device_target,,,WLED LCD,LED-BH1,LED-BH1 Direct,WLED LCD,ab,direct/led_bh1/wled_lcd_ab.svg
+direct,device_target,,,QD-OLED,LED-BH1,LED-BH1 Direct,QD-OLED,auc,direct/led_bh1/qd_oled_auc.svg
+direct,device_target,,,QD-OLED,LED-BH1,LED-BH1 Direct,QD-OLED,ab,direct/led_bh1/qd_oled_ab.svg
+pair,pair_macro_targets,KSF LCD,WOLED,,__macro__,KSF LCD → WOLED,All illuminants,auc,pair/ksf_lcd_to_woled/all_illuminants_auc.svg
+pair,pair_target,KSF LCD,WOLED,,D65,KSF LCD → WOLED,D65,auc,pair/ksf_lcd_to_woled/d65_auc.svg
+pair,pair_target,KSF LCD,WOLED,,D65,KSF LCD → WOLED,D65,ab,pair/ksf_lcd_to_woled/d65_ab.svg
+pair,pair_target,KSF LCD,WOLED,,D50,KSF LCD → WOLED,D50,auc,pair/ksf_lcd_to_woled/d50_auc.svg
+pair,pair_target,KSF LCD,WOLED,,D50,KSF LCD → WOLED,D50,ab,pair/ksf_lcd_to_woled/d50_ab.svg
+pair,pair_target,KSF LCD,WOLED,,D55,KSF LCD → WOLED,D55,auc,pair/ksf_lcd_to_woled/d55_auc.svg
+pair,pair_target,KSF LCD,WOLED,,D55,KSF LCD → WOLED,D55,ab,pair/ksf_lcd_to_woled/d55_ab.svg
+pair,pair_target,KSF LCD,WOLED,,LED-RGB1,KSF LCD → WOLED,LED-RGB1,auc,pair/ksf_lcd_to_woled/led_rgb1_auc.svg
+pair,pair_target,KSF LCD,WOLED,,LED-RGB1,KSF LCD → WOLED,LED-RGB1,ab,pair/ksf_lcd_to_woled/led_rgb1_ab.svg
+pair,pair_target,KSF LCD,WOLED,,LED-V2,KSF LCD → WOLED,LED-V2,auc,pair/ksf_lcd_to_woled/led_v2_auc.svg
+pair,pair_target,KSF LCD,WOLED,,LED-V2,KSF LCD → WOLED,LED-V2,ab,pair/ksf_lcd_to_woled/led_v2_ab.svg
+pair,pair_target,KSF LCD,WOLED,,LED-V1,KSF LCD → WOLED,LED-V1,auc,pair/ksf_lcd_to_woled/led_v1_auc.svg
+pair,pair_target,KSF LCD,WOLED,,LED-V1,KSF LCD → WOLED,LED-V1,ab,pair/ksf_lcd_to_woled/led_v1_ab.svg
+pair,pair_target,KSF LCD,WOLED,,LED-BH1,KSF LCD → WOLED,LED-BH1,auc,pair/ksf_lcd_to_woled/led_bh1_auc.svg
+pair,pair_target,KSF LCD,WOLED,,LED-BH1,KSF LCD → WOLED,LED-BH1,ab,pair/ksf_lcd_to_woled/led_bh1_ab.svg
+pair,pair_macro_targets,WOLED,KSF LCD,,__macro__,WOLED → KSF LCD,All illuminants,auc,pair/woled_to_ksf_lcd/all_illuminants_auc.svg
+pair,pair_target,WOLED,KSF LCD,,D65,WOLED → KSF LCD,D65,auc,pair/woled_to_ksf_lcd/d65_auc.svg
+pair,pair_target,WOLED,KSF LCD,,D65,WOLED → KSF LCD,D65,ab,pair/woled_to_ksf_lcd/d65_ab.svg
+pair,pair_target,WOLED,KSF LCD,,D50,WOLED → KSF LCD,D50,auc,pair/woled_to_ksf_lcd/d50_auc.svg
+pair,pair_target,WOLED,KSF LCD,,D50,WOLED → KSF LCD,D50,ab,pair/woled_to_ksf_lcd/d50_ab.svg
+pair,pair_target,WOLED,KSF LCD,,D55,WOLED → KSF LCD,D55,auc,pair/woled_to_ksf_lcd/d55_auc.svg
+pair,pair_target,WOLED,KSF LCD,,D55,WOLED → KSF LCD,D55,ab,pair/woled_to_ksf_lcd/d55_ab.svg
+pair,pair_target,WOLED,KSF LCD,,LED-RGB1,WOLED → KSF LCD,LED-RGB1,auc,pair/woled_to_ksf_lcd/led_rgb1_auc.svg
+pair,pair_target,WOLED,KSF LCD,,LED-RGB1,WOLED → KSF LCD,LED-RGB1,ab,pair/woled_to_ksf_lcd/led_rgb1_ab.svg
+pair,pair_target,WOLED,KSF LCD,,LED-V2,WOLED → KSF LCD,LED-V2,auc,pair/woled_to_ksf_lcd/led_v2_auc.svg
+pair,pair_target,WOLED,KSF LCD,,LED-V2,WOLED → KSF LCD,LED-V2,ab,pair/woled_to_ksf_lcd/led_v2_ab.svg
+pair,pair_target,WOLED,KSF LCD,,LED-V1,WOLED → KSF LCD,LED-V1,auc,pair/woled_to_ksf_lcd/led_v1_auc.svg
+pair,pair_target,WOLED,KSF LCD,,LED-V1,WOLED → KSF LCD,LED-V1,ab,pair/woled_to_ksf_lcd/led_v1_ab.svg
+pair,pair_target,WOLED,KSF LCD,,LED-BH1,WOLED → KSF LCD,LED-BH1,auc,pair/woled_to_ksf_lcd/led_bh1_auc.svg
+pair,pair_target,WOLED,KSF LCD,,LED-BH1,WOLED → KSF LCD,LED-BH1,ab,pair/woled_to_ksf_lcd/led_bh1_ab.svg
+pair,pair_macro_targets,WOLED,WLED LCD,,__macro__,WOLED → WLED LCD,All illuminants,auc,pair/woled_to_wled_lcd/all_illuminants_auc.svg
+pair,pair_target,WOLED,WLED LCD,,D65,WOLED → WLED LCD,D65,auc,pair/woled_to_wled_lcd/d65_auc.svg
+pair,pair_target,WOLED,WLED LCD,,D65,WOLED → WLED LCD,D65,ab,pair/woled_to_wled_lcd/d65_ab.svg
+pair,pair_target,WOLED,WLED LCD,,D50,WOLED → WLED LCD,D50,auc,pair/woled_to_wled_lcd/d50_auc.svg
+pair,pair_target,WOLED,WLED LCD,,D50,WOLED → WLED LCD,D50,ab,pair/woled_to_wled_lcd/d50_ab.svg
+pair,pair_target,WOLED,WLED LCD,,D55,WOLED → WLED LCD,D55,auc,pair/woled_to_wled_lcd/d55_auc.svg
+pair,pair_target,WOLED,WLED LCD,,D55,WOLED → WLED LCD,D55,ab,pair/woled_to_wled_lcd/d55_ab.svg
+pair,pair_target,WOLED,WLED LCD,,LED-RGB1,WOLED → WLED LCD,LED-RGB1,auc,pair/woled_to_wled_lcd/led_rgb1_auc.svg
+pair,pair_target,WOLED,WLED LCD,,LED-RGB1,WOLED → WLED LCD,LED-RGB1,ab,pair/woled_to_wled_lcd/led_rgb1_ab.svg
+pair,pair_target,WOLED,WLED LCD,,LED-V2,WOLED → WLED LCD,LED-V2,auc,pair/woled_to_wled_lcd/led_v2_auc.svg
+pair,pair_target,WOLED,WLED LCD,,LED-V2,WOLED → WLED LCD,LED-V2,ab,pair/woled_to_wled_lcd/led_v2_ab.svg
+pair,pair_target,WOLED,WLED LCD,,LED-V1,WOLED → WLED LCD,LED-V1,auc,pair/woled_to_wled_lcd/led_v1_auc.svg
+pair,pair_target,WOLED,WLED LCD,,LED-V1,WOLED → WLED LCD,LED-V1,ab,pair/woled_to_wled_lcd/led_v1_ab.svg
+pair,pair_target,WOLED,WLED LCD,,LED-BH1,WOLED → WLED LCD,LED-BH1,auc,pair/woled_to_wled_lcd/led_bh1_auc.svg
+pair,pair_target,WOLED,WLED LCD,,LED-BH1,WOLED → WLED LCD,LED-BH1,ab,pair/woled_to_wled_lcd/led_bh1_ab.svg
+pair,pair_macro_targets,QDEF LCD,QD-OLED,,__macro__,QDEF LCD → QD-OLED,All illuminants,auc,pair/qdef_lcd_to_qd_oled/all_illuminants_auc.svg
+pair,pair_target,QDEF LCD,QD-OLED,,D65,QDEF LCD → QD-OLED,D65,auc,pair/qdef_lcd_to_qd_oled/d65_auc.svg
+pair,pair_target,QDEF LCD,QD-OLED,,D65,QDEF LCD → QD-OLED,D65,ab,pair/qdef_lcd_to_qd_oled/d65_ab.svg
+pair,pair_target,QDEF LCD,QD-OLED,,D50,QDEF LCD → QD-OLED,D50,auc,pair/qdef_lcd_to_qd_oled/d50_auc.svg
+pair,pair_target,QDEF LCD,QD-OLED,,D50,QDEF LCD → QD-OLED,D50,ab,pair/qdef_lcd_to_qd_oled/d50_ab.svg
+pair,pair_target,QDEF LCD,QD-OLED,,D55,QDEF LCD → QD-OLED,D55,auc,pair/qdef_lcd_to_qd_oled/d55_auc.svg
+pair,pair_target,QDEF LCD,QD-OLED,,D55,QDEF LCD → QD-OLED,D55,ab,pair/qdef_lcd_to_qd_oled/d55_ab.svg
+pair,pair_target,QDEF LCD,QD-OLED,,LED-RGB1,QDEF LCD → QD-OLED,LED-RGB1,auc,pair/qdef_lcd_to_qd_oled/led_rgb1_auc.svg
+pair,pair_target,QDEF LCD,QD-OLED,,LED-RGB1,QDEF LCD → QD-OLED,LED-RGB1,ab,pair/qdef_lcd_to_qd_oled/led_rgb1_ab.svg
+pair,pair_target,QDEF LCD,QD-OLED,,LED-V2,QDEF LCD → QD-OLED,LED-V2,auc,pair/qdef_lcd_to_qd_oled/led_v2_auc.svg
+pair,pair_target,QDEF LCD,QD-OLED,,LED-V2,QDEF LCD → QD-OLED,LED-V2,ab,pair/qdef_lcd_to_qd_oled/led_v2_ab.svg
+pair,pair_target,QDEF LCD,QD-OLED,,LED-V1,QDEF LCD → QD-OLED,LED-V1,auc,pair/qdef_lcd_to_qd_oled/led_v1_auc.svg
+pair,pair_target,QDEF LCD,QD-OLED,,LED-V1,QDEF LCD → QD-OLED,LED-V1,ab,pair/qdef_lcd_to_qd_oled/led_v1_ab.svg
+pair,pair_target,QDEF LCD,QD-OLED,,LED-BH1,QDEF LCD → QD-OLED,LED-BH1,auc,pair/qdef_lcd_to_qd_oled/led_bh1_auc.svg
+pair,pair_target,QDEF LCD,QD-OLED,,LED-BH1,QDEF LCD → QD-OLED,LED-BH1,ab,pair/qdef_lcd_to_qd_oled/led_bh1_ab.svg
+pair,pair_macro_targets,WLED LCD,WOLED,,__macro__,WLED LCD → WOLED,All illuminants,auc,pair/wled_lcd_to_woled/all_illuminants_auc.svg
+pair,pair_target,WLED LCD,WOLED,,D65,WLED LCD → WOLED,D65,auc,pair/wled_lcd_to_woled/d65_auc.svg
+pair,pair_target,WLED LCD,WOLED,,D65,WLED LCD → WOLED,D65,ab,pair/wled_lcd_to_woled/d65_ab.svg
+pair,pair_target,WLED LCD,WOLED,,D50,WLED LCD → WOLED,D50,auc,pair/wled_lcd_to_woled/d50_auc.svg
+pair,pair_target,WLED LCD,WOLED,,D50,WLED LCD → WOLED,D50,ab,pair/wled_lcd_to_woled/d50_ab.svg
+pair,pair_target,WLED LCD,WOLED,,D55,WLED LCD → WOLED,D55,auc,pair/wled_lcd_to_woled/d55_auc.svg
+pair,pair_target,WLED LCD,WOLED,,D55,WLED LCD → WOLED,D55,ab,pair/wled_lcd_to_woled/d55_ab.svg
+pair,pair_target,WLED LCD,WOLED,,LED-RGB1,WLED LCD → WOLED,LED-RGB1,auc,pair/wled_lcd_to_woled/led_rgb1_auc.svg
+pair,pair_target,WLED LCD,WOLED,,LED-RGB1,WLED LCD → WOLED,LED-RGB1,ab,pair/wled_lcd_to_woled/led_rgb1_ab.svg
+pair,pair_target,WLED LCD,WOLED,,LED-V2,WLED LCD → WOLED,LED-V2,auc,pair/wled_lcd_to_woled/led_v2_auc.svg
+pair,pair_target,WLED LCD,WOLED,,LED-V2,WLED LCD → WOLED,LED-V2,ab,pair/wled_lcd_to_woled/led_v2_ab.svg
+pair,pair_target,WLED LCD,WOLED,,LED-V1,WLED LCD → WOLED,LED-V1,auc,pair/wled_lcd_to_woled/led_v1_auc.svg
+pair,pair_target,WLED LCD,WOLED,,LED-V1,WLED LCD → WOLED,LED-V1,ab,pair/wled_lcd_to_woled/led_v1_ab.svg
+pair,pair_target,WLED LCD,WOLED,,LED-BH1,WLED LCD → WOLED,LED-BH1,auc,pair/wled_lcd_to_woled/led_bh1_auc.svg
+pair,pair_target,WLED LCD,WOLED,,LED-BH1,WLED LCD → WOLED,LED-BH1,ab,pair/wled_lcd_to_woled/led_bh1_ab.svg
+pair,pair_macro_targets,WLED LCD,QD-OLED,,__macro__,WLED LCD → QD-OLED,All illuminants,auc,pair/wled_lcd_to_qd_oled/all_illuminants_auc.svg
+pair,pair_target,WLED LCD,QD-OLED,,D65,WLED LCD → QD-OLED,D65,auc,pair/wled_lcd_to_qd_oled/d65_auc.svg
+pair,pair_target,WLED LCD,QD-OLED,,D65,WLED LCD → QD-OLED,D65,ab,pair/wled_lcd_to_qd_oled/d65_ab.svg
+pair,pair_target,WLED LCD,QD-OLED,,D50,WLED LCD → QD-OLED,D50,auc,pair/wled_lcd_to_qd_oled/d50_auc.svg
+pair,pair_target,WLED LCD,QD-OLED,,D50,WLED LCD → QD-OLED,D50,ab,pair/wled_lcd_to_qd_oled/d50_ab.svg
+pair,pair_target,WLED LCD,QD-OLED,,D55,WLED LCD → QD-OLED,D55,auc,pair/wled_lcd_to_qd_oled/d55_auc.svg
+pair,pair_target,WLED LCD,QD-OLED,,D55,WLED LCD → QD-OLED,D55,ab,pair/wled_lcd_to_qd_oled/d55_ab.svg
+pair,pair_target,WLED LCD,QD-OLED,,LED-RGB1,WLED LCD → QD-OLED,LED-RGB1,auc,pair/wled_lcd_to_qd_oled/led_rgb1_auc.svg
+pair,pair_target,WLED LCD,QD-OLED,,LED-RGB1,WLED LCD → QD-OLED,LED-RGB1,ab,pair/wled_lcd_to_qd_oled/led_rgb1_ab.svg
+pair,pair_target,WLED LCD,QD-OLED,,LED-V2,WLED LCD → QD-OLED,LED-V2,auc,pair/wled_lcd_to_qd_oled/led_v2_auc.svg
+pair,pair_target,WLED LCD,QD-OLED,,LED-V2,WLED LCD → QD-OLED,LED-V2,ab,pair/wled_lcd_to_qd_oled/led_v2_ab.svg
+pair,pair_target,WLED LCD,QD-OLED,,LED-V1,WLED LCD → QD-OLED,LED-V1,auc,pair/wled_lcd_to_qd_oled/led_v1_auc.svg
+pair,pair_target,WLED LCD,QD-OLED,,LED-V1,WLED LCD → QD-OLED,LED-V1,ab,pair/wled_lcd_to_qd_oled/led_v1_ab.svg
+pair,pair_target,WLED LCD,QD-OLED,,LED-BH1,WLED LCD → QD-OLED,LED-BH1,auc,pair/wled_lcd_to_qd_oled/led_bh1_auc.svg
+pair,pair_target,WLED LCD,QD-OLED,,LED-BH1,WLED LCD → QD-OLED,LED-BH1,ab,pair/wled_lcd_to_qd_oled/led_bh1_ab.svg
+pair,pair_macro_targets,QD-OLED,QDEF LCD,,__macro__,QD-OLED → QDEF LCD,All illuminants,auc,pair/qd_oled_to_qdef_lcd/all_illuminants_auc.svg
+pair,pair_target,QD-OLED,QDEF LCD,,D65,QD-OLED → QDEF LCD,D65,auc,pair/qd_oled_to_qdef_lcd/d65_auc.svg
+pair,pair_target,QD-OLED,QDEF LCD,,D65,QD-OLED → QDEF LCD,D65,ab,pair/qd_oled_to_qdef_lcd/d65_ab.svg
+pair,pair_target,QD-OLED,QDEF LCD,,D50,QD-OLED → QDEF LCD,D50,auc,pair/qd_oled_to_qdef_lcd/d50_auc.svg
+pair,pair_target,QD-OLED,QDEF LCD,,D50,QD-OLED → QDEF LCD,D50,ab,pair/qd_oled_to_qdef_lcd/d50_ab.svg
+pair,pair_target,QD-OLED,QDEF LCD,,D55,QD-OLED → QDEF LCD,D55,auc,pair/qd_oled_to_qdef_lcd/d55_auc.svg
+pair,pair_target,QD-OLED,QDEF LCD,,D55,QD-OLED → QDEF LCD,D55,ab,pair/qd_oled_to_qdef_lcd/d55_ab.svg
+pair,pair_target,QD-OLED,QDEF LCD,,LED-RGB1,QD-OLED → QDEF LCD,LED-RGB1,auc,pair/qd_oled_to_qdef_lcd/led_rgb1_auc.svg
+pair,pair_target,QD-OLED,QDEF LCD,,LED-RGB1,QD-OLED → QDEF LCD,LED-RGB1,ab,pair/qd_oled_to_qdef_lcd/led_rgb1_ab.svg
+pair,pair_target,QD-OLED,QDEF LCD,,LED-V2,QD-OLED → QDEF LCD,LED-V2,auc,pair/qd_oled_to_qdef_lcd/led_v2_auc.svg
+pair,pair_target,QD-OLED,QDEF LCD,,LED-V2,QD-OLED → QDEF LCD,LED-V2,ab,pair/qd_oled_to_qdef_lcd/led_v2_ab.svg
+pair,pair_target,QD-OLED,QDEF LCD,,LED-V1,QD-OLED → QDEF LCD,LED-V1,auc,pair/qd_oled_to_qdef_lcd/led_v1_auc.svg
+pair,pair_target,QD-OLED,QDEF LCD,,LED-V1,QD-OLED → QDEF LCD,LED-V1,ab,pair/qd_oled_to_qdef_lcd/led_v1_ab.svg
+pair,pair_target,QD-OLED,QDEF LCD,,LED-BH1,QD-OLED → QDEF LCD,LED-BH1,auc,pair/qd_oled_to_qdef_lcd/led_bh1_auc.svg
+pair,pair_target,QD-OLED,QDEF LCD,,LED-BH1,QD-OLED → QDEF LCD,LED-BH1,ab,pair/qd_oled_to_qdef_lcd/led_bh1_ab.svg
+pair,pair_macro_targets,QD-OLED,WLED LCD,,__macro__,QD-OLED → WLED LCD,All illuminants,auc,pair/qd_oled_to_wled_lcd/all_illuminants_auc.svg
+pair,pair_target,QD-OLED,WLED LCD,,D65,QD-OLED → WLED LCD,D65,auc,pair/qd_oled_to_wled_lcd/d65_auc.svg
+pair,pair_target,QD-OLED,WLED LCD,,D65,QD-OLED → WLED LCD,D65,ab,pair/qd_oled_to_wled_lcd/d65_ab.svg
+pair,pair_target,QD-OLED,WLED LCD,,D50,QD-OLED → WLED LCD,D50,auc,pair/qd_oled_to_wled_lcd/d50_auc.svg
+pair,pair_target,QD-OLED,WLED LCD,,D50,QD-OLED → WLED LCD,D50,ab,pair/qd_oled_to_wled_lcd/d50_ab.svg
+pair,pair_target,QD-OLED,WLED LCD,,D55,QD-OLED → WLED LCD,D55,auc,pair/qd_oled_to_wled_lcd/d55_auc.svg
+pair,pair_target,QD-OLED,WLED LCD,,D55,QD-OLED → WLED LCD,D55,ab,pair/qd_oled_to_wled_lcd/d55_ab.svg
+pair,pair_target,QD-OLED,WLED LCD,,LED-RGB1,QD-OLED → WLED LCD,LED-RGB1,auc,pair/qd_oled_to_wled_lcd/led_rgb1_auc.svg
+pair,pair_target,QD-OLED,WLED LCD,,LED-RGB1,QD-OLED → WLED LCD,LED-RGB1,ab,pair/qd_oled_to_wled_lcd/led_rgb1_ab.svg
+pair,pair_target,QD-OLED,WLED LCD,,LED-V2,QD-OLED → WLED LCD,LED-V2,auc,pair/qd_oled_to_wled_lcd/led_v2_auc.svg
+pair,pair_target,QD-OLED,WLED LCD,,LED-V2,QD-OLED → WLED LCD,LED-V2,ab,pair/qd_oled_to_wled_lcd/led_v2_ab.svg
+pair,pair_target,QD-OLED,WLED LCD,,LED-V1,QD-OLED → WLED LCD,LED-V1,auc,pair/qd_oled_to_wled_lcd/led_v1_auc.svg
+pair,pair_target,QD-OLED,WLED LCD,,LED-V1,QD-OLED → WLED LCD,LED-V1,ab,pair/qd_oled_to_wled_lcd/led_v1_ab.svg
+pair,pair_target,QD-OLED,WLED LCD,,LED-BH1,QD-OLED → WLED LCD,LED-BH1,auc,pair/qd_oled_to_wled_lcd/led_bh1_auc.svg
+pair,pair_target,QD-OLED,WLED LCD,,LED-BH1,QD-OLED → WLED LCD,LED-BH1,ab,pair/qd_oled_to_wled_lcd/led_bh1_ab.svg

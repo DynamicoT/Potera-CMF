@@ -1,0 +1,26 @@
+cff-version: "1.2.0"
+message: >-
+  If you use Potera CMF, derive numerical results from it, or compare
+  against it in an academic publication, please cite the archived dataset
+  release using these metadata.
+type: dataset
+title: "Potera CMF"
+abstract: >-
+  A colour-matching-function dataset for modern displays and real-world
+  spectral colour-science tasks, including 10-degree LMS cone fundamentals,
+  cone-fundamental-based XYZ functions, derived tables, and benchmark results.
+authors:
+  - name: "Dynamico"
+version: "1.0.0"
+date-released: "2026-07-20"
+repository: "https://github.com/DynamicoT/Potera-CMF"
+url: "https://github.com/DynamicoT/Potera-CMF"
+license: Apache-2.0
+keywords:
+  - color matching functions
+  - colorimetry
+  - spectral color science
+  - individual observers
+  - display metamerism
+  - benchmarking
+

@@ -1,0 +1,18 @@
+{
+  "schema_id": "potera_benchmark_result_v1",
+  "case_count": 113,
+  "figure_count": 211,
+  "figure_format": "SVG",
+  "candidate_cmfs": [
+    "Potera CMF",
+    "CIE 2015 2°",
+    "CIE 2015 10°",
+    "CIE 1964 10°",
+    "CIE 1931 2°",
+    "Judd–Vos 1978 2°"
+  ],
+  "xyz_row_count": 588,
+  "xyz_definition": "matched output SPD evaluated by CIE 1931 2-degree CMF in absolute XYZ",
+  "xyz_macro_policy": "macro figures have no single XYZ; all constituent atomic cases are listed",
+  "sucs_xyz_roundtrip_max_abs_error": 3.765876499528531e-13
+}
