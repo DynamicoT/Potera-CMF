@@ -13,6 +13,7 @@ authors:
   - name: "Dynamico"
 version: "1.0.0"
 date-released: "2026-07-20"
+doi: "10.5281/zenodo.21446604"
 repository: "https://github.com/DynamicoT/Potera-CMF"
 url: "https://github.com/DynamicoT/Potera-CMF"
 license: Apache-2.0
@@ -23,4 +24,3 @@ keywords:
   - individual observers
   - display metamerism
   - benchmarking
-

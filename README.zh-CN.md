@@ -2,6 +2,8 @@
 
 [English](README.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21446604.svg)](https://doi.org/10.5281/zenodo.21446604)
+
 Potera CMF 是一个面向现代显示设备与真实任务设计的 CMF，包括 10° LMS cone fundamentals 与 10° cone-fundamental-based XYZs。我们通过标准的 CIE 方法构建并开源了多项 CMF 的必要数据，因此可以轻松集成至任意基于光谱的色彩科学项目中。
 
 Potera CMF 在多项数据集的混合应用中，面对不同指标均达到了 SOTA 水平，尤其擅长在最小色差下覆盖最多的 individual observers；同时，对于 display matching 任务，较传统 CMF 有着更进一步的优势。
@@ -52,5 +54,8 @@ Individual observer 数据与模型引用：
 ## 引用
 
 在学术出版物中使用 Potera CMF、基于其产生数值结果，或将其作为 Benchmark 对比时，请引用 [`CITATION.cff`](CITATION.cff) 记录的归档数据集版本，并尽可能引用实验实际使用的具体版本。GitHub 的 “Cite this repository” 功能可生成 APA 与 BibTeX 格式。
+
+- Potera CMF v1.0.0：[10.5281/zenodo.21446604](https://doi.org/10.5281/zenodo.21446604)
+- 全部版本（始终指向最新发布版）：[10.5281/zenodo.21446603](https://doi.org/10.5281/zenodo.21446603)
 
 该引用请求属于学术归属要求，独立于且不修改 Apache License 2.0 的许可与条件。
