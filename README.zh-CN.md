@@ -4,6 +4,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21446604.svg)](https://doi.org/10.5281/zenodo.21446604)
 
+![Potera XYZ 颜色匹配函数](Potera_CMF/Potera_XYZ.svg)
+
 Potera CMF 是一个面向现代显示设备与真实任务设计的 CMF，包括 10° LMS cone fundamentals 与 10° cone-fundamental-based XYZs。我们通过标准的 CIE 方法构建并开源了多项 CMF 的必要数据，因此可以轻松集成至任意基于光谱的色彩科学项目中。
 
 Potera CMF 在多项数据集的混合应用中，面对不同指标均达到了 SOTA 水平，尤其擅长在最小色差下覆盖最多的 individual observers；同时，对于 display matching 任务，较传统 CMF 有着更进一步的优势。
@@ -16,6 +18,10 @@ Potera CMF 在多项数据集的混合应用中，面对不同指标均达到了
 
 - [`Potera_CMF/`](Potera_CMF/)：最终 CMF 数据表与图像。
 - [`Potera_Benchmarks/`](Potera_Benchmarks/)：Benchmark 数据与图像。
+
+## CMF 对比
+
+![Potera CMF 对比](Potera_CMF/Potera_CMF_comparison.svg)
 
 ## Benchmark 代表图
 

@@ -4,6 +4,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21446604.svg)](https://doi.org/10.5281/zenodo.21446604)
 
+![Potera XYZ colour-matching functions](Potera_CMF/Potera_XYZ.svg)
+
 Potera CMF is designed for modern display devices and real-world tasks. It includes 10° LMS cone fundamentals and 10° cone-fundamental-based XYZ functions. We used standard CIE methods to derive and publish the supporting data needed for straightforward integration into spectral colour-science projects.
 
 Across mixed-use evaluations on multiple datasets, Potera CMF achieves state-of-the-art results under a range of metrics. It is particularly effective at covering the largest number of individual observers with minimal colour difference, and offers further advantages over traditional CMFs in display-matching tasks.
@@ -16,6 +18,10 @@ Beyond the performance results, the detailed construction process and methods wi
 
 - [`Potera_CMF/`](Potera_CMF/): final CMF tables and figures.
 - [`Potera_Benchmarks/`](Potera_Benchmarks/): benchmark data and figures.
+
+## CMF Comparison
+
+![Potera CMF comparison](Potera_CMF/Potera_CMF_comparison.svg)
 
 ## Representative Benchmark Figures
 
